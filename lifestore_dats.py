@@ -1,4 +1,3 @@
-from nbformat import write
 
 def register():
     print("\n" + "// REGISTRO AL SISTEMA" + "\n")

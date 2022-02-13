@@ -1,2 +1,3 @@
 ANDRES, 1234567
 michelle, qwerty12
+DaftPunk, Daft123098
